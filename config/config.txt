@@ -1,0 +1,7 @@
+path = '/home/zhezhi/kdd/data'
+profiles = 'profiles.csv'
+train_queries = 'train_queries.csv'
+train_plans = 'train_plans.csv'
+train_clicks = 'train_clicks.csv'
+test_queries = 'test_queries.csv'
+test_plans = 'test_plans.csv'
